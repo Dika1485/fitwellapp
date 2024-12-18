@@ -97,4 +97,4 @@ If you'd like to contribute to the development of FitWell, please follow these s
 FitWell is released under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-If you have any questions or feedback, feel free to contact us at ptiandika@gmail.com.
+If you have any questions or feedback, feel free to contact us at ptiandika@gmail.com or abimanyuputraarjuna2708@gmail.com.
